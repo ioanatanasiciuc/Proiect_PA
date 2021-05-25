@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neo4j-4.2.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../neo4j-4.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
